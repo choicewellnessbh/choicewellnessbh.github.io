@@ -10,12 +10,12 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 @import url("https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,600");
 html {
-  background-color: #fff;
+  background-color: #FFFFFF;
   color: #737f8a;
 }
 
 body {
-  background-color: #fff;
+  background-color: #FFFFFF;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -48,12 +48,12 @@ p {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #99c2ff;
+  background: #190434;
 }
 
 ::selection {
   color: #fff;
-  background: #99c2ff;
+  background: #190434;
 }
 
 ol,
@@ -193,11 +193,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: rgb(230, 223, 223);
 }
 
 .bg-dark {
-  background: #242930;
+  background: rgb(211, 205, 205);
 }
 
 .parallax-section {
@@ -437,7 +437,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #FFFFFF;
 }
 
 .overly {
@@ -446,7 +446,7 @@ a:hover {
 
 .overly:before {
   content: '';
-  background: rgba(0, 0, 0, 0.096);
+  background: #FFFFFF;
   position: absolute;
   top: 0;
   right: 0;
@@ -511,7 +511,7 @@ a:hover {
 }
 
 .pagination li a {
-  background: #242930;
+  background:#FFFFFF;
   border: 0;
   color: #fff;
 }
@@ -548,7 +548,7 @@ a:hover {
 }
 
 .single-page-header:before {
-  background: rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
   position: absolute;
   content: '';
   top: 0;
@@ -561,7 +561,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #0e2646;
+  background-color: #1259b6;
   width: 100%;
   z-index: 99;
   margin-bottom: 0;
@@ -710,7 +710,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #1259b6;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
