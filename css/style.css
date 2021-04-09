@@ -397,6 +397,13 @@ a:focus {
   margin-top: 10px;
 }
 
+.navbar-brand img {
+  object-fit:scale-down;
+  object-position: left;
+  width:212px;
+  height:70px;
+}
+
 .dropdown .dropdown-menu {
   position: absolute;
   display: block;
@@ -1387,6 +1394,13 @@ a:focus {
 .logo {
   font-weight: 600;
   letter-spacing: 1px;
+}
+
+.logo img {
+  object-fit:scale-down;
+  object-position: left;
+  width:414px;
+  height:140px;
 }
 
 .logo h3 {
