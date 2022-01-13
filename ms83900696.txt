@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "choicewellnessbh.com",
+  "Id": "b4732583-4558-4973-b00a-aa1dcac94d2c"
+}
